@@ -1,0 +1,4 @@
+.DS_STORE
+downloads/
+node_modules/
+yarn.lock

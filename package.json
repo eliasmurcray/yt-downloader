@@ -1,0 +1,9 @@
+{
+  "name": "yt-downloader",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.cjs",
+  "dependencies": {
+    "ytdl-core": "^4.11.5"
+  }
+}
